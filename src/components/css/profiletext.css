@@ -1,0 +1,10 @@
+.profile {
+    /* background-color : blue; */
+    padding: 50px;
+    width: 100%;
+}
+
+p {
+    font-family: "Trebuchet MS", serif !important;
+    font-size: 1vw;
+}
