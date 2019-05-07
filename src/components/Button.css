@@ -1,0 +1,23 @@
+.Button {
+    background-color: white;
+    border: 3px solid #197ac4;
+    border-radius: 50px;
+    margin: auto;
+    background: transparent;
+    color: #197ac4;
+    margin: 10px;
+}
+
+.Button:hover {
+    color: #004eb5;
+}
+
+a {
+    margin: 10px;
+}
+
+a:hover {
+    color: #004eb5;
+    text-decoration: none;
+    opacity: .5;
+}
