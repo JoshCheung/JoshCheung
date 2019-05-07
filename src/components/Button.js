@@ -7,7 +7,7 @@ class Button extends Component {
         return (
             <div>
                 <a className = "Button" href = {Pdf}>
-                    <a href = {Pdf}>Resume</a>
+                    <a href = {Pdf}>Résumé</a>
                 </a>
             </div>
         );
