@@ -44,11 +44,11 @@ export default function Skills({ title, subtitle, dark, id, image,  }) {
                                     <td>Guitar</td>
                                 </tr>
                                 <tr>
-                                    <td>Eating <br/> Ramen</td>
-                                    <td>Drawing <br/> Comics</td>
-                                    <td>Building <br/> Models</td>
-                                    <td>Conversational <br/> Cantonese</td>
-                                    <td>Stuffing his face <br/> with food</td>
+                                    <td>Eating Ramen</td>
+                                    <td>Drawing Comics</td>
+                                    <td>Building Models</td>
+                                    <td>Conversational Cantonese</td>
+                                    <td>Stuffing his face with food</td>
                                 </tr>
                             </table>
                         </center>
