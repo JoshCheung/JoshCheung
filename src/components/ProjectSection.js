@@ -25,7 +25,13 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 title="Qvinyl"
                                 image={qvinyl}
                                 subtitle="(Full-stack) Firebase, React, JavaScript, HTML, CSS"
-                                text="Qvinyl is a web application that let users queue up YouTube video/music to be played synchronously on different devices. I played a strong role in this project as scrum master organizing code sessions/meetings to ensure project goals were met. I also designed a robust backend infrastructure on Firebase to efficiently store user information, text messages, room data, and YouTube videos in the queue. Qvinyl challenged me in several aspects of software engineering such as learning new frameworks quickly, communicating effectively, and management skills."
+                                text="Qvinyl is a web application that let users queue up YouTube video/music
+                                to be played synchronously across multiple devices. I played a strong role in
+                                this project as scrum master organizing code sessions/meetings to ensure project
+                                goals were met. I also designed a robust backend infrastructure on Firebase to
+                                efficiently store user information, text messages, room data, and YouTube videos
+                                in the queue. Qvinyl challenged me in several aspects of software engineering
+                                such as learning new frameworks quickly, communicating effectively, and management skills. "
                                 demolink="https://qvinyl.github.io/Qvinyl/"
                                 demo="Demo"
                                 githublink="https://github.com/Qvinyl/Qvinyl"
@@ -35,7 +41,12 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 title="88 Beans"
                                 image={bean}
                                 subtitle="(Full-stack) Android, Java, SQLite"
-                                text="88 Beans is an android application that tracks coffee bean usage and helps with anticipating/deciding future orders. This is an application to help a client with cataloguing and managing their coffee shop by visualizing coffee trends and analyzing coffee bean usage for different types of beans. I implemented a database table in SQLite for data to be easily extracted, analyzed, and visualized. I constructed an easy user Interface to help with data readability and entering coffee information. With this project, I got to experiment with different android APIs such as graphs and working closely with a client trying to cater towards their expectations."
+                                text="88 Beans is an android application that tracks coffee bean usage and helps with
+                                anticipating/deciding future orders. This is an application to help a client with
+                                cataloguing and managing their coffee shop by visualizing coffee trends and analyzing coffee
+                                bean usage for different types of beans. I implemented a database table in SQLite for
+                                data to be easily extracted, analyzed, and visualized. I constructed an easy user
+                                Interface to help with data readability and entering coffee information."
                                 githublink="https://github.com/JoshCheung/88Beans"
                                 github="Github"
                             />
@@ -43,7 +54,12 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 title="BudgetTracker"
                                 image={budget}
                                 subtitle="(Front-end) Web2py, JavaScript, Chart.js, HTML, CSS"
-                                text="The story behind this project is that Wells Fargo does not have a way to visualize budget and spending habits, therefore as a class group project, I wanted a way for me to visualize my spending habits and analyze my transaction history. Working with a team of 4 and using Chart.js, I was able to achieve my goal. I created JavaScript functions that inspected each row of a CSV file and categorized them accordingly (by searched name or by ranged dates). I also crafted an intuitive UI with interactive graphs to visualize large sets of organized data. This project taught different aspects of JavaScript and how to use existing JavaScript API such as Charts.js."
+                                text="Given a CSV file downloaded from Wells Fargo transaction history, this application
+                                visualizes and categorizes each transaction for analyzation and visualization. Working
+                                with a team of 4 and using Chart.js, I was able to achieve my goals. I created JavaScript
+                                functions that inspected each row of a CSV file and categorized them accordingly (by
+                                searched name or by ranged dates). I also crafted an intuitive UI with interactive
+                                graphs to visualize large sets of organized data."
                                 githublink="https://github.com/jstnzl/cs183_budget"
                                 github="Github"
                             />
@@ -52,7 +68,10 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 title="Sunrise Rotary Club"
                                 image={rotary}
                                 subtitle="(Front-end) JavaScript, HTML, CSS"
-                                text="This was a project to completely revamp Santa Cruz Sunrise Rotary’s website. Within this project, I got to work collaborate with the client and help them restructure their website, modernizing its appearance and usability. This project taught me the different aspects of web development using HTML and CSS to tailor aesthetics according to the client’s preferences. However, I also got to use my own creativity and integrated what I thought would best fit certain areas of the website. Overall, this project was eye opening and showed me the process of creating a website and my own capabilities."
+                                text="This was a project to completely revamp Santa Cruz Sunrise Rotary’s website. Our
+                                group got to work closely with our client to restructure their website, modernizing its
+                                appearance and usability. Within this project, I worked closely with HTML, CSS, and
+                                JavaScript, in order to tailor accordingly to the client’s preferences."
                                 demolink="https://sunriserotary.github.io/index.html"
                                 demo="Demo"
                                 githublink="https://github.com/sunriserotary/sunriserotary.github.io"
