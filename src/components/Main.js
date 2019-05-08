@@ -62,6 +62,7 @@ class Main extends Component {
                             <Button/>
                         </div>
                     </div>
+                    
                     <AboutSection
                         title=" Who is this guy? "
                         dark={true}

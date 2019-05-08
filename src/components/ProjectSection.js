@@ -18,8 +18,6 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                         <div className = "container-title">
                             <h2 className="color" >{title}</h2>
                         </div>
-
-
                         <div className="section-content" id={id}>
                             <Card
                                 title="Qvinyl"
@@ -39,7 +37,7 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                             />
                             <Card
                                 title="88 Beans"
-                                image={bean}
+                                image=""
                                 subtitle="(Full-stack) Android, Java, SQLite"
                                 text="88 Beans is an android application that tracks coffee bean usage and helps with
                                 anticipating/deciding future orders. This is an application to help a client with

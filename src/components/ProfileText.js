@@ -5,7 +5,7 @@ export default function ProfileText({title, subtitle, dark, id, image, text, lin
     return (
         <div>
             <div className="profile">
-                <h3>Hi! I'm Josh, the guy up there.</h3>
+                <h4>Hi! I'm Josh, the guy up there.</h4>
                 <p>I'm a Software Engineer based in Alameda, California.
                 I am passionate about software engineering and always found it interesting how simple 0’s and 1’s can turn into massive applications that can connect people all around the world.
                 I am excited to learn about the future technologies with Artificial Intelligence on the way, Augmented Reality/ Virtual Reality, and Space Exploration.</p>

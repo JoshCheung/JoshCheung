@@ -36,7 +36,7 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                                 for computer science, and allowed me to do what I love -learn."
                             />
                             <Card
-                                title="Fall 2017 to March 2019"
+                                title="Septemeber 2017 to March 2019"
                                 image={resnet}
                                 subtitle="Information Technician"
                                 text="ResNet gave me a friendly working environment and the opportunity to grow as I got to
@@ -47,7 +47,7 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                                 my problem solving skills, communication skills, and build great friendships along the way."
                             />
                             <Card
-                                title="Fall 2018"
+                                title="October 2018"
                                 image={cisco2}
                                 subtitle="Software Engineering Intern"
                                 text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
