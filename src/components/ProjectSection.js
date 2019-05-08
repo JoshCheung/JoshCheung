@@ -24,13 +24,12 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 title="Qvinyl"
                                 image={qvinyl}
                                 subtitle="(Full-stack) Firebase, React, JavaScript, HTML, CSS"
-                                text="Qvinyl is a web application that let users queue up YouTube video/music
+                                text="Qvinyl is a web application that let users queue up YouTube videos/music
                                 to be played synchronously across multiple devices. I played a strong role in
                                 this project as scrum master organizing code sessions/meetings to ensure project
                                 goals were met. I also designed a robust backend infrastructure on Firebase to
-                                efficiently store user information, text messages, room data, and YouTube videos
-                                in the queue. Qvinyl challenged me in several aspects of software engineering
-                                such as learning new frameworks quickly, communicating effectively, and management skills. "
+                                efficiently store user information, text messages, room data, and YouTube links
+                                in the queue."
                                 demolink="https://qvinyl.github.io/Qvinyl/"
                                 demo="Demo"
                                 githublink="https://github.com/Qvinyl/Qvinyl"
@@ -40,12 +39,10 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 title="88 Beans"
                                 image={beans}
                                 subtitle="(Full-stack) Android, Java, SQLite"
-                                text="88 Beans is an android application that tracks coffee bean usage and helps with
-                                anticipating/deciding future orders. This is an application to help a client with
-                                cataloguing and managing their coffee shop by visualizing coffee trends and analyzing coffee
-                                bean usage for different types of beans. I implemented a database table in SQLite for
-                                data to be easily extracted, analyzed, and visualized. I constructed an easy user
-                                Interface to help with data readability and entering coffee information."
+                                text="88 Beans is an android application that tracks coffee bean usage in order to help anticipate
+                                furture orders. I implemented a database table in SQLite that takes quantative data and visually relays
+                                the information with a combination of graphs and charts. The application has an easy user Interface to
+                                help with data readability and data entry."
                                 githublink="https://github.com/JoshCheung/88Beans"
                                 github="Github"
                             />
@@ -69,8 +66,8 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 subtitle="(Front-end) JavaScript, HTML, CSS"
                                 text="This was a project to completely revamp Santa Cruz Sunrise Rotary’s website. Our
                                 group got to work closely with our client to restructure their website, modernizing its
-                                appearance and usability. Within this project, I worked closely with HTML, CSS, and
-                                JavaScript, in order to tailor accordingly to the client’s preferences."
+                                appearance and usability. Within this project, I worked closely with JavaScript, HTML, and CSS
+                                in order to tailor accordingly to the client’s preferences."
                                 demolink="https://sunriserotary.github.io/index.html"
                                 demo="Demo"
                                 githublink="https://github.com/sunriserotary/sunriserotary.github.io"

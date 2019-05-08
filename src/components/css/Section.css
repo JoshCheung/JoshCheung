@@ -1,6 +1,6 @@
 .section {
     display: block;
-    width: 75%;
+    width: 68%;
     margin-left: auto;
     margin-right: auto;
     /* background-color: yellow; */
@@ -89,7 +89,7 @@ h2:after {
 .title {
     padding: 0px;
     margin: 0px;
-    font-size: 1.5vw;
+    font-size: 1.5em;
 }
 
 .line {

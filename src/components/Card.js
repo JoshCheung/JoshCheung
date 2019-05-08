@@ -20,15 +20,14 @@ export default function Card({title, subtitle, dark, id, image, text, demolink, 
                     </div>
 
                     <div className="right-half">
-                        <div className="right-title-text">
+
                             <p className="headers">{title}</p>
-                        </div>
-                        <div className="right-subtitle-text">
-                            <p className="headers">{subtitle}</p>
-                        </div>
-                        <div className="right-sub-text">
+
+
+                            <p className="headers2">{subtitle}</p>
+
+
                             <p className="right-text">{text}</p>
-                        </div>
                     </div>
                 </div>
             </div>
