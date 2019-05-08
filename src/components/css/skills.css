@@ -1,8 +1,8 @@
 .skills {
     margin: auto;
     padding: 50px;
-    display: flex;
-    flex-direction: row;
+    /* display: flex; */
+    /* flex-direction: row; */
 }
 
 #skills ul {
@@ -14,5 +14,11 @@
     padding: 8px;
     font-family: "Trebuchet MS", serif !important;
     font-size: 1.2vw;
+    color: #00bfff;
+}
+
+td {
+    padding: 15px;
+    font-size: 1vw;
     color: #00bfff;
 }

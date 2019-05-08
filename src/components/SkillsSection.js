@@ -13,33 +13,45 @@ export default function Skills({ title, subtitle, dark, id, image,  }) {
                 </div>
                 <div className="section-content" id={id}>
                     <div className="skills">
-                        <ul id="skills">
-                            <li>Java</li>
-                            <li>Python</li>
-                            <li>C</li>
-                            <li>C++</li>
-                            <li>MySQL</li>
-                            <li>SQLite</li>
-                            <li>JavaScript</li>
-                            <li>HTML</li>
-                            <li>CSS</li>
-                            <li>Node.js</li>
-                            <li>Vue.js</li>
-                            <li>Web2py</li>
-                            <li>FireBase</li>
-                            <li>Android Studios</li>
-                            <li>Scrum</li>
-                            <li>React</li>
-                            <li>Ansible</li>
-                            <li>YAML</li>
-                            <li>Piano</li>
-                            <li>Guitar</li>
-                            <li>Eating Ramen</li>
-                            <li>Drawing Comics</li>
-                            <li>Building Models</li>
-                            <li>Conversational Cantonese</li>
-                            <li>Stuffing his face with food</li>
-                        </ul>
+                        <center>
+                            <table>
+                                <tr>
+                                    <td>Java</td>
+                                    <td>Python</td>
+                                    <td>C</td>
+                                    <td>C++</td>
+                                    <td>MySQL</td>
+                                </tr>
+                                <tr>
+                                    <td>SQLite</td>
+                                    <td>JavaScript</td>
+                                    <td>HTML</td>
+                                    <td>CSS</td>
+                                    <td>Node.JS</td>
+                                </tr>
+                                <tr>
+                                    <td>Vue.JS</td>
+                                    <td>Web2py</td>
+                                    <td>FireBase</td>
+                                    <td>Android Studios</td>
+                                    <td>Scrum</td>
+                                </tr>
+                                <tr>
+                                    <td>React</td>
+                                    <td>Ansible</td>
+                                    <td>YAML</td>
+                                    <td>Piano</td>
+                                    <td>Guitar</td>
+                                </tr>
+                                <tr>
+                                    <td>Eating Ramen</td>
+                                    <td>Drawing Comics</td>
+                                    <td>Building Models</td>
+                                    <td>Conversational Cantonese</td>
+                                    <td>Stuffing his face with food</td>
+                                </tr>
+                            </table>
+                        </center>
                     </div>
                 </div>
             </div>
