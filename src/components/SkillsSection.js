@@ -38,8 +38,7 @@ export default function Skills({ title, subtitle, dark, id, image,  }) {
                             <li>Drawing Comics</li>
                             <li>Building Models</li>
                             <li>Conversational Cantonese</li>
-                            <li>Stuffing his face with good food</li>
-                            <li>Being Josh</li>
+                            <li>Stuffing his face with food</li>
                         </ul>
                     </div>
                 </div>
