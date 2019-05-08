@@ -4,6 +4,7 @@ import ContactSection from "./ContactSection";
 import AboutSection from "./AboutSection";
 import Timeline from "./Timeline";
 import ProjectSection from "./ProjectSection";
+import Skills from './SkillsSection'
 import Hobby from "./Hobby";
 import Button from './Button';
 import Card from './Card';
@@ -79,6 +80,10 @@ class Main extends Component {
                         dark={true}
                         id="projects"
                         />
+                    <Skills
+                        title="What skills does he have?"
+                        id="skills"
+                    />
                     <Hobby
                         title=" What does he like? "
                         id="hobbies"
