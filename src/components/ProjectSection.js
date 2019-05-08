@@ -35,7 +35,6 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 demo="Demo"
                                 githublink="https://github.com/Qvinyl/Qvinyl"
                                 github="Github"
-                                pipe="|"
                             />
                             <Card
                                 title="88 Beans"
@@ -47,7 +46,6 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 help with data readability and data entry."
                                 githublink="https://github.com/JoshCheung/88Beans"
                                 github="Github"
-                                pipe="|"
                             />
                             <Card
                                 title="BudgetTracker"
@@ -61,7 +59,6 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 graphs to visualize large sets of organized data."
                                 githublink="https://github.com/jstnzl/cs183_budget"
                                 github="Github"
-                                pipe="|"
                             />
 
                             <Card
@@ -76,7 +73,6 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 demo="Demo"
                                 githublink="https://github.com/sunriserotary/sunriserotary.github.io"
                                 github="Github"
-                                pipe="|"
                             />
                         </div>
                     </div>

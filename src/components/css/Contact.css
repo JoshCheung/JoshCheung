@@ -44,3 +44,7 @@ input[type=submit] {
     cursor: pointer;
     margin: auto;
 }
+
+h5 {
+    font-family: "Trebuchet MS", serif !important;
+}
