@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7938c1bfa54927fee6df9ee896b5f8c5",
+    "revision": "1933a9cb6361965529278b1728cce5ce",
     "url": "/JoshCheung/index.html"
   },
   {
-    "revision": "17e272af4222e6131832",
+    "revision": "1cbbcf9a4bbd362edd44",
     "url": "/JoshCheung/static/css/2.df9ef6f4.chunk.css"
   },
   {
-    "revision": "941b5088dfca87219efd",
-    "url": "/JoshCheung/static/css/main.da4cbac9.chunk.css"
+    "revision": "53430501479c6cff926b",
+    "url": "/JoshCheung/static/css/main.0eec357b.chunk.css"
   },
   {
-    "revision": "17e272af4222e6131832",
-    "url": "/JoshCheung/static/js/2.436b9c48.chunk.js"
+    "revision": "1cbbcf9a4bbd362edd44",
+    "url": "/JoshCheung/static/js/2.fc8f440f.chunk.js"
   },
   {
-    "revision": "941b5088dfca87219efd",
-    "url": "/JoshCheung/static/js/main.1c1badd1.chunk.js"
+    "revision": "53430501479c6cff926b",
+    "url": "/JoshCheung/static/js/main.19b6057e.chunk.js"
   },
   {
     "revision": "0c6cbe33118d7e825db5",
@@ -102,5 +102,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5bb70ff524e6b14b222bfae21bb32521",
     "url": "/JoshCheung/static/media/tiger.5bb70ff5.jpg"
+  },
+  {
+    "revision": "f8c1a88983d3bc7d8895590e75e504b7",
+    "url": "/JoshCheung/static/media/whitebeans.f8c1a889.png"
   }
 ]);

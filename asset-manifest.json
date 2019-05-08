@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/JoshCheung/static/css/main.da4cbac9.chunk.css",
-    "main.js": "/JoshCheung/static/js/main.1c1badd1.chunk.js",
-    "main.js.map": "/JoshCheung/static/js/main.1c1badd1.chunk.js.map",
+    "main.css": "/JoshCheung/static/css/main.0eec357b.chunk.css",
+    "main.js": "/JoshCheung/static/js/main.19b6057e.chunk.js",
+    "main.js.map": "/JoshCheung/static/js/main.19b6057e.chunk.js.map",
     "runtime~main.js": "/JoshCheung/static/js/runtime~main.a7f9c16d.js",
     "runtime~main.js.map": "/JoshCheung/static/js/runtime~main.a7f9c16d.js.map",
     "static/css/2.df9ef6f4.chunk.css": "/JoshCheung/static/css/2.df9ef6f4.chunk.css",
-    "static/js/2.436b9c48.chunk.js": "/JoshCheung/static/js/2.436b9c48.chunk.js",
-    "static/js/2.436b9c48.chunk.js.map": "/JoshCheung/static/js/2.436b9c48.chunk.js.map",
+    "static/js/2.fc8f440f.chunk.js": "/JoshCheung/static/js/2.fc8f440f.chunk.js",
+    "static/js/2.fc8f440f.chunk.js.map": "/JoshCheung/static/js/2.fc8f440f.chunk.js.map",
     "index.html": "/JoshCheung/index.html",
-    "precache-manifest.b5e06ab373802b2d142fc19fecf8fa31.js": "/JoshCheung/precache-manifest.b5e06ab373802b2d142fc19fecf8fa31.js",
+    "precache-manifest.f9cc7a426de5edaa520f0b7ce6123ca0.js": "/JoshCheung/precache-manifest.f9cc7a426de5edaa520f0b7ce6123ca0.js",
     "service-worker.js": "/JoshCheung/service-worker.js",
     "static/css/2.df9ef6f4.chunk.css.map": "/JoshCheung/static/css/2.df9ef6f4.chunk.css.map",
-    "static/css/main.da4cbac9.chunk.css.map": "/JoshCheung/static/css/main.da4cbac9.chunk.css.map",
+    "static/css/main.0eec357b.chunk.css.map": "/JoshCheung/static/css/main.0eec357b.chunk.css.map",
     "static/media/88beans.png": "/JoshCheung/static/media/88beans.fcd7a64d.png",
     "static/media/Profile.jpg": "/JoshCheung/static/media/Profile.10430061.jpg",
     "static/media/Resume.pdf": "/JoshCheung/static/media/Resume.b7cac97e.pdf",
@@ -32,6 +32,7 @@
     "static/media/rotary.svg": "/JoshCheung/static/media/rotary.4346af38.svg",
     "static/media/spiderman.jpg": "/JoshCheung/static/media/spiderman.a5ef403c.jpg",
     "static/media/superman.jpg": "/JoshCheung/static/media/superman.9902acee.jpg",
-    "static/media/tiger.jpg": "/JoshCheung/static/media/tiger.5bb70ff5.jpg"
+    "static/media/tiger.jpg": "/JoshCheung/static/media/tiger.5bb70ff5.jpg",
+    "static/media/whitebeans.png": "/JoshCheung/static/media/whitebeans.f8c1a889.png"
   }
 }
