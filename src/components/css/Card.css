@@ -11,7 +11,7 @@
 .linkContainer {
     display: flex;
     flex-direction: row;
-    margin: 0px;
+    margin: 0px;;
     padding: 0px;
 }
 
@@ -108,13 +108,27 @@
     font-family: inherit;
 }
 
+#title table {
+    padding-left: 15px;
+    background-color: blue;
+}
+
+#title td {
+    padding: 0px;
+    text-align: left;
+    padding-left: 20px;
+}
+
 .headers {
-    margin: 0px;
+    font-family: "Trebuchet MS", serif !important;
     /* padding-top: 10px; */
     font-size: 1.1em;
     color: #4286f4;
-    text-align:  left;
-    padding-left: 20px;
+    text-align: left;
+    display: flex;
+    margin: auto;
+    margin-left: 0px;
+    /* padding-left: 20px; */
 }
 
 .headers2 {

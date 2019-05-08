@@ -14,7 +14,7 @@ export default function Skills({ title, subtitle, dark, id, image,  }) {
                 <div className="section-content" id={id}>
                     <div className="skills">
                         <center>
-                            <table>
+                            <table id = "skills">
                                 <tr>
                                     <td>Java</td>
                                     <td>Python</td>
@@ -44,11 +44,11 @@ export default function Skills({ title, subtitle, dark, id, image,  }) {
                                     <td>Guitar</td>
                                 </tr>
                                 <tr>
-                                    <td>Eating Ramen</td>
-                                    <td>Drawing Comics</td>
-                                    <td>Building Models</td>
-                                    <td>Conversational Cantonese</td>
-                                    <td>Stuffing his face with food</td>
+                                    <td>Eating <br/> Ramen</td>
+                                    <td>Drawing <br/> Comics</td>
+                                    <td>Building <br/> Models</td>
+                                    <td>Conversational <br/> Cantonese</td>
+                                    <td>Stuffing his face <br/> with food</td>
                                 </tr>
                             </table>
                         </center>

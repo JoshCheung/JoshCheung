@@ -17,9 +17,9 @@
     color: #00bfff;
 }
 
-td {
-    padding: 15px;
-    font-size: 1vw;
+#skills td {
+    padding: 10px;
+    font-size: 1.1vw;
     color: #00bfff;
     font-family: "Trebuchet MS", serif !important;
 }

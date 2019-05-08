@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import './css/Card.css'
 
 
-export default function Card({title, subtitle, dark, id, image, text, demolink, githublink, demo, github}) {
+export default function Card({title, subtitle, dark, id, image, text, demolink, githublink, demo, github, pipe}) {
     return (
         <div>
             <div className="cards">
@@ -13,17 +13,21 @@ export default function Card({title, subtitle, dark, id, image, text, demolink, 
                                 <img className="left-image" src={image}></img>
                             </a>
                         </div>
-                        <div className="linkContainer">
-                            <a href={demolink} className="links">{demo}</a>
-                            <a href={githublink} className="links">{github}</a>
-                        </div>
+
                     </div>
 
                     <div className="right-half">
 
-                            <p className="headers">{title}</p>
+                        <div className="linkContainer">
+                            <table id="title">
+                                <tr>
+                                    <td><p className="headers">{title}</p></td>
+                                    <td><a href={githublink} className="links">{github}</a></td>
+                                    <td><a href={demolink} className="links">{demo}</a></td>
+                                </tr>
 
-
+                            </table>
+                        </div>
                             <p className="headers2">{subtitle}</p>
 
 
