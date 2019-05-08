@@ -5,10 +5,10 @@
     flex-direction: row;
 }
 
-ul {
+#skills ul {
     margin: auto;
 }
-li {
+#skills li {
     display: inline-block;
     margin: 8px;
     padding: 8px;
