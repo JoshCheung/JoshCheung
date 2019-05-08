@@ -30,9 +30,8 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                                 who expanded my knowledge academically, creatively, and mentally. Through in-class experiences and
                                 group projects, I have been exposed to a variety of languages, environments, and the application
                                 development process that have given me a greater understanding for the different aspects of
-                                computer science. The people I’ve surrounded myself with along the way have not only shaped my development
-                                as a programmer but also as a person. They have inspired me through their own drive to learn and make an
-                                impact doing something they love to open myself to new oppurtunities and make the most out of them.
+                                computer science. My peers have inspired me through own drive to learn and make an impact doing something they love to open 
+                                myself to new opportunities and grasp them to make something of my own.
                                 UC Santa Cruz has given me treasurable friendships, shown me my passion for computer science, and
                                 allowed me to do what I love -learn."
                             />
