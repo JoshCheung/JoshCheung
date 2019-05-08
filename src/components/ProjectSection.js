@@ -3,6 +3,7 @@ import './css/Section.css'
 import Card from './Card'
 import rotary from './media/rotary.svg'
 import bean from './media/88beans.png'
+import beans from './media/beans.png'
 import qvinyl from './media/qvinyl.png'
 import budget from './media/budgettracker.PNG'
 export default function ProjectSection({ title, subtitle, dark, id, image}) {
@@ -37,7 +38,7 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                             />
                             <Card
                                 title="88 Beans"
-                                image=""
+                                image={beans}
                                 subtitle="(Full-stack) Android, Java, SQLite"
                                 text="88 Beans is an android application that tracks coffee bean usage and helps with
                                 anticipating/deciding future orders. This is an application to help a client with
