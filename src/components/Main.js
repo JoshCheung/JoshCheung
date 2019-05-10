@@ -14,6 +14,7 @@ import profile from './media/profile.jpeg';
 import banner from './media/banner.jpg';
 import profilePic from "./media/Profile.jpg";
 import name from "./media/name.png";
+import name2 from "./media/name2.png";
 
 
 class Main extends Component {
@@ -58,7 +59,7 @@ class Main extends Component {
                         <img className="banner" src={banner}/>
                         <div className="centered">
                             <p className="texttop">  Hello World, I'm </p>
-                            <img src={name} className="name" />
+                            <img src={name2} className="name" />
                             <Button/>
                         </div>
                     </div>
