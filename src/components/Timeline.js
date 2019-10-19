@@ -1,9 +1,10 @@
 import React from "react";
 import './css/Section.css'
 import Card from './Card'
-import cisco from './media/cisco.png'
+import cisco from './media/CiscoLogo.png'
 import cisco2 from './media/cisco2.jpg'
 import resnet from './media/ResNet.png'
+import birst from './media/BirstLogo.png'
 import porter from './media/porterswiggle.jpg'
 
 export default function Timeline({ title, subtitle, dark, id, image}) {
@@ -22,10 +23,33 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
 
 
                         <div className="section-content" id={id}>
+
+
+                            <Card
+                                title="October 2019"
+                                image={birst}
+                                subtitle="Birst: Software Engineering"
+                                text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
+                                For the three months working there, I was given many different projects such as creating playbooks on
+                                Ansible, unit testing different call functions on Webex, and working with mySQL databases. Here, I
+                                gained confidence in my abilities to write code, have high level discussions in meetings, and overall
+                                as a software engineer."
+                            />
+
+                            <Card
+                                title="July 2019"
+                                image={cisco}
+                                subtitle="Cisco Systems: Software Engineering"
+                                text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
+                                For the three months working there, I was given many different projects such as creating playbooks on
+                                Ansible, unit testing different call functions on Webex, and working with mySQL databases. Here, I
+                                gained confidence in my abilities to write code, have high level discussions in meetings, and overall
+                                as a software engineer."
+                            />
                             <Card
                                 title="April 2019"
                                 image={porter}
-                                subtitle="BS Degree in Computer Science"
+                                subtitle="UC Santa Cruz: BS Degree in Computer Science"
                                 text="In my four years at UC Santa Cruz, I’ve encountered challenging and encouraging professors
                                 who expanded my knowledge academically, creatively, and mentally. Through in-class experiences and
                                 group projects, I have been exposed to a variety of languages, environments, and the application
@@ -38,7 +62,7 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                             <Card
                                 title="October 2018"
                                 image={cisco2}
-                                subtitle="Software Engineering Intern"
+                                subtitle="Cisco Systems: Software Engineering Intern"
                                 text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
                                 For the three months working there, I was given many different projects such as creating playbooks on
                                 Ansible, unit testing different call functions on Webex, and working with mySQL databases. Here, I
@@ -49,7 +73,7 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                             <Card
                                 title="September 2017 to March 2019"
                                 image={resnet}
-                                subtitle="Information Technician"
+                                subtitle="ResNet: Information Technician"
                                 text="ResNet was I place where I had to effectively communicate with students and faculty members
                                 in order to resolve their technical issues. I had to hone these communications skills over the phone,
                                 online, or in person to assist these students. Working at ResNet, I configured routers to be compliant
