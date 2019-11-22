@@ -29,18 +29,18 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                                 title="October 2019 - Present"
                                 image={birst}
                                 subtitle="Birst: Software Engineering"
-                                text=""
+                                text="I am currently working my way up to become a FullStack Engineer."
                             />
 
                             <Card
                                 title="July 2019 - September 2019"
                                 image={cisco}
                                 subtitle="Cisco Systems: Software Engineering"
-                                text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
-                                For the three months working there, I was given many different projects such as creating playbooks on
-                                Ansible, unit testing different call functions on Webex, and working with MYSQL databases. Here, I
-                                gained confidence in my abilities to write code, have high level discussions in meetings, and overall
-                                as a software engineer."
+                                text="I returned to Cisco on the Webex automation team where I wrote test scripts that assessed the
+                                different features of Webex and tested the various versions of the application. While working on a
+                                refactoring project, I got to see how system architecture and design meetings took place. I was able
+                                to sit in on these intricate conversations and implement high-level API calls for different test cases
+                                for the Webex application. "
                             />
                             <Card
                                 title="September 2015 - April 2019"
