@@ -26,41 +26,35 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
 
 
                             <Card
-                                title="October 2019"
+                                title="October 2019 - Present"
                                 image={birst}
                                 subtitle="Birst: Software Engineering"
-                                text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
-                                For the three months working there, I was given many different projects such as creating playbooks on
-                                Ansible, unit testing different call functions on Webex, and working with mySQL databases. Here, I
-                                gained confidence in my abilities to write code, have high level discussions in meetings, and overall
-                                as a software engineer."
+                                text=""
                             />
 
                             <Card
-                                title="July 2019"
+                                title="July 2019 - September 2019"
                                 image={cisco}
                                 subtitle="Cisco Systems: Software Engineering"
                                 text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
                                 For the three months working there, I was given many different projects such as creating playbooks on
-                                Ansible, unit testing different call functions on Webex, and working with mySQL databases. Here, I
+                                Ansible, unit testing different call functions on Webex, and working with MYSQL databases. Here, I
                                 gained confidence in my abilities to write code, have high level discussions in meetings, and overall
                                 as a software engineer."
                             />
                             <Card
-                                title="April 2019"
+                                title="September 2015 - April 2019"
                                 image={porter}
                                 subtitle="UC Santa Cruz: BS Degree in Computer Science"
                                 text="In my four years at UC Santa Cruz, I’ve encountered challenging and encouraging professors
-                                who expanded my knowledge academically, creatively, and mentally. Through in-class experiences and
-                                group projects, I have been exposed to a variety of languages, environments, and the application
-                                development process that have given me a greater understanding for the different aspects of
-                                computer science. My peers have inspired me through their own drive to learn and make an impact doing something they love to open
-                                myself to new opportunities and grasp them to make something of my own.
-                                UC Santa Cruz has given me treasurable friendships, shown me my passion for computer science, and
-                                allowed me to do what I love -learn."
+                                who have expanded my knowledge academically and creatively. Through in-class experiences and
+                                group projects, I have been exposed to a variety of programming languages, environments, and learned about the
+                                developmental process of applications and gained a greater respect for the different aspects of computer science.
+                                My peers have inspired me through their own drive to learn and has taught me to open myself up to new opportunities
+                                and grasp them to make something of my own."
                             />
                             <Card
-                                title="October 2018"
+                                title="October 2018 - December 2018"
                                 image={cisco2}
                                 subtitle="Cisco Systems: Software Engineering Intern"
                                 text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
@@ -71,7 +65,7 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                             />
 
                             <Card
-                                title="September 2017 to March 2019"
+                                title="September 2017 - March 2019"
                                 image={resnet}
                                 subtitle="ResNet: Information Technician"
                                 text="ResNet was I place where I had to effectively communicate with students and faculty members
