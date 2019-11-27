@@ -1,7 +1,7 @@
 import React from "react";
 import './css/Section.css';
 import Card from './Card';
-import ProfileText from './ProfileText';
+import Profile from './Profile';
 
 export default function AboutSection({ title, subtitle, dark, id, image}) {
     return (
@@ -13,7 +13,7 @@ export default function AboutSection({ title, subtitle, dark, id, image}) {
                     <h2 className="color">{title}</h2>
                 </div>
                 <div className="section-content" id={id}>
-                    <ProfileText/>
+                    <Profile/>
                 </div>
             </div>
         </center>

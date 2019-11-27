@@ -65,33 +65,33 @@ class Main extends Component {
                     </div>
 
                     <AboutSection
-                        title=" Who is this guy? "
+                        title=" Who am I? "
                         dark={true}
                         id="aboutMe"
                         image={profilePic}
                         />
                     <Timeline
-                        title=" What has he been up to? "
+                        title=" What have I been up to? "
                         subtitle="Testing 2"
                         dark={true}
                         id="work"
                         />
                     <ProjectSection
-                        title=" What has he worked on? "
+                        title=" What projects have I worked on? "
                         subtitle="Testing 3"
                         dark={true}
                         id="projects"
                         />
                     <Skills
-                        title="What skills does he have?"
+                        title="What are my Skillsets?"
                         id="skills"
                     />
                     <Hobby
-                        title=" What does he like? "
+                        title=" What do I like to do? "
                         id="hobbies"
                         />
                     <ContactSection
-                        title=" How can I connect with him? "
+                        title=" How can you connect with me? "
                         dark={true}
                         id="contact"
                         />

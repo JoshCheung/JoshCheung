@@ -1,6 +1,6 @@
 import React from "react";
 import './css/Section.css'
-import Card from './Card'
+import NewCard from './NewCard'
 import cisco from './media/CiscoLogo.png'
 import cisco2 from './media/cisco2.jpg'
 import resnet from './media/ResNet.png'
@@ -22,17 +22,19 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                         </div>
 
 
-                        <div className="section-content" id={id}>
+                        <div className="section-content">
 
 
-                            <Card
+
+
+                            <NewCard
                                 title="October 2019 - Present"
                                 image={birst}
                                 subtitle="Birst: Software Engineering"
                                 text="I am currently working my way up to become a FullStack Engineer."
                             />
 
-                            <Card
+                            <NewCard
                                 title="July 2019 - September 2019"
                                 image={cisco}
                                 subtitle="Cisco Systems: Software Engineering"
@@ -42,7 +44,7 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                                 to sit in on these intricate conversations and implement high-level API calls for different test cases
                                 for the Webex application. "
                             />
-                            <Card
+                            <NewCard
                                 title="September 2015 - April 2019"
                                 image={porter}
                                 subtitle="UC Santa Cruz: BS Degree in Computer Science"
@@ -53,18 +55,18 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                                 My peers have inspired me through their own drive to learn and has taught me to open myself up to new opportunities
                                 and grasp them to make something of my own."
                             />
-                            <Card
+                            <NewCard
                                 title="October 2018 - December 2018"
                                 image={cisco2}
                                 subtitle="Cisco Systems: Software Engineering Intern"
                                 text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
                                 For the three months working there, I was given many different projects such as creating playbooks on
-                                Ansible, unit testing different call functions on Webex, and working with mySQL databases. Here, I
+                                Ansible, unit testing different call functions on Webex, and working with MYSQL databases. Here, I
                                 gained confidence in my abilities to write code, have high level discussions in meetings, and overall
                                 as a software engineer."
                             />
 
-                            <Card
+                            <NewCard
                                 title="September 2017 - March 2019"
                                 image={resnet}
                                 subtitle="ResNet: Information Technician"

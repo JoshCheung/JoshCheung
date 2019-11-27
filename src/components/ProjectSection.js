@@ -1,6 +1,6 @@
 import React from "react";
 import './css/Section.css'
-import Card from './Card'
+import NewCard from './NewCard'
 import rotary from './media/rotary.svg'
 import bean from './media/88beans.png'
 import wbeans from './media/whitebeans.png'
@@ -21,7 +21,7 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                             <h2 className="color" >{title}</h2>
                         </div>
                         <div className="section-content" id={id}>
-                            <Card
+                            <NewCard
                                 title="Qvinyl"
                                 image={qvinyl}
                                 subtitle="(Full-stack) Firebase, React, JavaScript, HTML, CSS"
@@ -36,7 +36,7 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 githublink="https://github.com/Qvinyl/Qvinyl"
                                 github="Github"
                             />
-                            <Card
+                            <NewCard
                                 title="88 Beans"
                                 image={wbeans}
                                 subtitle="(Full-stack) Android, Java, SQLite"
@@ -47,7 +47,7 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 githublink="https://github.com/JoshCheung/88Beans"
                                 github="Github"
                             />
-                            <Card
+                            <NewCard
                                 title="BudgetTracker"
                                 image={budget}
                                 subtitle="(Front-end) Web2py, JavaScript, Chart.js, HTML, CSS"
@@ -61,7 +61,7 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 github="Github"
                             />
 
-                            <Card
+                            <NewCard
                                 title="Sunrise Rotary Club"
                                 image={rotary}
                                 subtitle="(Front-end) JavaScript, HTML, CSS"
