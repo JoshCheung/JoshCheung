@@ -21,6 +21,7 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                             <h2 className="color" >{title}</h2>
                         </div>
                         <div className="section-content" id={id}>
+                        
                             <NewCard
                                 title="Qvinyl"
                                 image={qvinyl}

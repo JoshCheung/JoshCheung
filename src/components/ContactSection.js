@@ -1,7 +1,6 @@
 import React from "react";
 import './css/Section.css';
 import Card from './Card';
-import './css/Contact.css';
 import IconSection from './IconSection';
 
 

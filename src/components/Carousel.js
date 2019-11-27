@@ -89,7 +89,9 @@ class Example extends Component {
           onExited={this.onExited}
           key={item.src}
         >
+        <div className="image-container">
           <img className="image_size" src={item.src} alt={item.altText}/>
+        </div>
 
         </CarouselItem>
       );

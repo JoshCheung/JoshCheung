@@ -42,6 +42,12 @@ ul.header li a {
     font-size: 1vw;
 }
 
+@media screen and (max-width: 1024px) {
+    .link {
+        text-align: left;
+        font-size: 60%;
+    }
+}
 .content {
   background-color: #FFF;
   padding: 20px;

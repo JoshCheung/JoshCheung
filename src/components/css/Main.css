@@ -11,6 +11,11 @@ h1 {
     text-align: center;
 }
 
+html, body {
+  width: auto !important;
+  overflow-x: hidden !important;
+}
+
 
 /* h1:before,
 h1:after {
@@ -28,6 +33,24 @@ h1:after {
     width: 75%;
 }
 
+@media screen and (max-width: 1024px) {
+    .name {
+        width: 110%;
+    }
+}
+
+.texttop {
+    color: white;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .texttop {
+        font-size: 120%;
+    }
+}
+
 .banner {
     width: 100%;
     display: block;
@@ -35,6 +58,17 @@ h1:after {
     margin-right: auto;
     height: 100vh;
 }
+
+@media screen and (max-width: 1024px) {
+    .banner {
+        width: 400%;
+    }
+}
+
+
+
+
+
 
 .container1 {
   position: relative;
@@ -51,11 +85,7 @@ h1:after {
   transform: translate(-50%, -50%);
 }
 
-.texttop {
-    color: white;
-    font-size: 1.5vw;
-    text-align: center;
-}
+
 .textBottom {
     color: white;
     font-size: 5vw;

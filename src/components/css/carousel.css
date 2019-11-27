@@ -4,9 +4,16 @@
 
 }
 
-.image_size {
+.image-container {
     height: 90vh;
 }
+
+.image_size {
+  width: auto%;
+  height: 100%;
+}
+
+
 
 .active {
     background-color: transparent;
@@ -19,4 +26,12 @@
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
+}
+
+@media screen and (max-width: 1024px) {
+    .image_size {
+      margin-top: 20%;
+      width: 100%;
+      height: auto;
+    }
 }
