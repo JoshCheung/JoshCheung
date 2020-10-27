@@ -34,23 +34,8 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 Youtube tutorials, and the help of my bestfriend, StackOverFlow. Through this experience, I have gained a greater 
                                 understanding of RestAPI, Docker, React, and Google Cloud Platform."
                                 demolink="http://qvinyl.cc/Qvinyl"
-                                demo="Demo"
+                                demo="Website"
                                 githublink="https://github.com/Qvinyl/Qvinyl2.0"
-                                github="Github"
-                            />
-                        
-                            <NewCard
-                                title="Qvinyl"
-                                image={qvinyl}
-                                date="June 2018 — August 2018"
-                                subtitle="(Full-stack) Firebase, React, JavaScript, HTML, CSS"
-                                text="Qvinyl is a web application that allows users to queue up Youtube videos / playlists to be played synchronously 
-                                across mutiple devices. I played the role of scrum master, organizing code sessions and meetings to ensure project 
-                                goals were met. In addition, I designed a robust backend infrastructure on Firebase to effienctly store user information, 
-                                text messages, room data, and YouTube links in the queue."
-                                demolink="https://qvinyl.github.io/Qvinyl/"
-                    
-                                githublink="https://github.com/Qvinyl/Qvinyl"
                                 github="Github"
                             />
                             <NewCard
@@ -63,6 +48,20 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 the information with a combination of graphs and charts. The application has an easy user Interface to
                                 help with data readability and data entry."
                                 githublink="https://github.com/JoshCheung/88Beans"
+                                github="Github"
+                            />
+                            <NewCard
+                                title="Qvinyl"
+                                image={qvinyl}
+                                date="June 2018 — August 2018"
+                                subtitle="(Full-stack) Firebase, React, JavaScript, HTML, CSS"
+                                text="Qvinyl is a web application that allows users to queue up Youtube videos / playlists to be played synchronously 
+                                across mutiple devices. I played the role of scrum master, organizing code sessions and meetings to ensure project 
+                                goals were met. In addition, I designed a robust backend infrastructure on Firebase to effienctly store user information, 
+                                text messages, room data, and YouTube links in the queue."
+                                demolink="https://qvinyl.github.io/Qvinyl/"
+                    
+                                githublink="https://github.com/Qvinyl/Qvinyl"
                                 github="Github"
                             />
                             <NewCard
@@ -79,7 +78,6 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 githublink="https://github.com/jstnzl/cs183_budget"
                                 github="Github"
                             />
-
                             <NewCard
                                 title="Sunrise Rotary Club"
                                 image={rotary}
