@@ -32,7 +32,7 @@ export default function ContactSection({ title, subtitle, dark, id, image}) {
 
 
                         <div className="section-content" id={id}>
-                            <h5> Get connected with me via email at JTCheung97@gmail.com! </h5>
+                            <h5> Message me via email at JTCheung97@gmail.com! </h5>
                             <h5>or</h5>
                             <IconSection/>
                         </div>

@@ -22,7 +22,7 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                         </div>
 
 
-                        <div className="section-content">
+                        <div className="section-content" id={id}>
 
                             <NewCard
                                 title="Development and Operations"
@@ -37,33 +37,30 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                                 date="July 2019 - September 2019"
                                 image={cisco}
                                 subtitle="Cisco Systems"
-                                text="I returned to the Webex automation team at Cisco where I wrote test scripts that assessed the
-                                different features of Webex and tested the various versions of the application. While working on a
-                                refactoring project, I got to see how system architecture and design meetings took place. I was able
-                                to sit in on these intricate conversations and implement high-level API calls for different test cases
-                                for the Webex application. "
+                                text="Six months after I finished my internship, I returned to Cisco where I wrote test scripts that assessed 
+                                the different features of Webex and tested the various versions of the application with the automation team. 
+                                While working on a refactoring project, I was able to learn about the system architecture behind the scenes. 
+                                I sat in on intricate conversations and implemented high-level API calls for different test cases for Webex application."
                             />
                             <NewCard
                                 title="BS Degree in Computer Science"
                                 date="September 2015 - April 2019"
                                 image={porter}
                                 subtitle="UC Santa Cruz"
-                                text="In my four years at UC Santa Cruz, I’ve encountered challenging and encouraging professors
-                                who have expanded my knowledge academically and creatively. Through in-class experiences and
-                                group projects, I have been exposed to a variety of programming languages, environments, and learned about the
-                                developmental process of applications and gained a greater respect for the different aspects of computer science.
-                                My peers have inspired me through their own drive to learn and has taught me to open myself up to new opportunities
-                                and grasp them to make something of my own."
+                                text="During my four years at UC Santa Cruz, I encountered challenging and encouraging professors
+                                who have expanded my knowledge academically and creatively. I was exposed to a variety of programming 
+                                languages and working environments, which helped me gain a greater understanding of the developmental process of 
+                                applications. Computer science truly commands my respect in its versatility and advancements."
                             />
                             <NewCard
                                 title="Software Engineering Intern"
                                 date="October 2018 - December 2018"
                                 image={cisco2}
                                 subtitle="Cisco Systems"
-                                text="Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers.
-                                For the three months working there, I was given many different projects such as creating playbooks on
-                                Ansible, unit testing different call functions on Webex, and working with MYSQL databases. Here, I
-                                gained confidence in my abilities to write code, have high level discussions in meetings, and overall
+                                text="As an intern at Cisco Systems, I worked closely with some brilliant engineers.
+                                For the three months there, I was given many different projects such as creating playbooks on
+                                Ansible, unit testing different call functions on Webex, and creating dashboards on Grafana with MySql commands. 
+                                There, I gained confidence in my abilities to write code, to have high level discussions in meetings, and just overall
                                 as a software engineer."
                             />
 
@@ -72,11 +69,10 @@ export default function Timeline({ title, subtitle, dark, id, image}) {
                                 date="September 2017 - March 2019"
                                 image={resnet}
                                 subtitle="ResNet"
-                                text="ResNet was I place where I had to effectively communicate with students and faculty members
-                                in order to resolve their technical issues. I had to hone these communications skills over the phone,
-                                online, or in person to assist these students. Working at ResNet, I configured routers to be compliant
-                                with the campus network, took apart computers in order to fix them, and removed malware/ viruses to
-                                protect clients’ data."
+                                text="Resnet, a student-employed campus service, required effective communication with both students and faculty to resolve
+                                technical issues. I became well-versed in these skills, over the phone, online, and in person. Specifically, I configured 
+                                routers to be in compliance with campus networks, took apart computers to fix them, and removed malware/viruses to proect 
+                                clients' data."
                             />
                         </div>
                     </div>

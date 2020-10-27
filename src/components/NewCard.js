@@ -20,10 +20,12 @@ export default function NewCard({title, subtitle, date, dark, id, image, text, d
                 <p className="description">{text}</p>
                 <div className="linkContainer">
                     <table id="title">
-                        <tr>
-                            <td><a href={githublink} className="links">{github}</a></td>
-                            <td><a href={demolink} className="links">{demo}</a></td>
-                        </tr>
+                        <tbody>
+                          <tr>
+                              <td><a href={githublink} className="links">{github}</a></td>
+                              <td><a href={demolink} className="links">{demo}</a></td>
+                          </tr>
+                        </tbody>
                     </table>
                 </div>
               </div>
