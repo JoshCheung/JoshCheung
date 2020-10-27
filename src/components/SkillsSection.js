@@ -21,32 +21,35 @@ export default function Skills({ title, subtitle, dark, id, image,  }) {
                                     <td>C</td>
                                     <td>C++</td>
                                     <td>MySQL</td>
+                                    <td>SQLite</td>
                                 </tr>
                                 <tr>
-                                    <td>SQLite</td>
                                     <td>JavaScript</td>
                                     <td>HTML</td>
                                     <td>CSS</td>
                                     <td>Node.JS</td>
+                                    <td>Vue.JS</td>
+                                    <td>React</td>
                                 </tr>
                                 <tr>
-                                    <td>Vue.JS</td>
                                     <td>Web2py</td>
                                     <td>FireBase</td>
+                                    <td>Amazon Web Services</td>
+                                    <td>Google Cloud Platform</td>
                                     <td>Android Studios</td>
-                                    <td>Scrum</td>
+                                    <td>Chef</td>
                                 </tr>
                                 <tr>
-                                    <td>React</td>
+                                    <td>Scrum</td>
                                     <td>Ansible</td>
                                     <td>YAML</td>
                                     <td>Piano</td>
                                     <td>Guitar</td>
+                                    <td>Drawing Comics</td>
                                 </tr>
                                 <tr>
-                                    <td>Eating Ramen</td>
-                                    <td>Drawing Comics</td>
                                     <td>Building Models</td>
+                                    <td>Eating Ramen</td>
                                     <td>Conversational Cantonese</td>
                                     <td>Stuffing his face with food</td>
                                 </tr>

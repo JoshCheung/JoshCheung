@@ -12,6 +12,7 @@ import './css/Main.css';
 import './css/Card.css';
 import profile from './media/profile.jpeg';
 import banner from './media/banner.jpg';
+import backsplash from './media/BackSplash.jpg'
 import profilePic from "./media/Profile.jpg";
 import name from "./media/name.png";
 import name2 from "./media/name2.png";
@@ -56,7 +57,7 @@ class Main extends Component {
             <div>
                 <div className='test'>
                     <div class = "container1">
-                        <img className="banner" src={banner}/>
+                        <img className="banner" src={backsplash}/>
                         <div className="centered">
                             <p className="texttop">  Hello World, I'm </p>
                             <img src={name2} className="name" />

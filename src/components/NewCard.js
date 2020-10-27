@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import './css/newCard.css'
 
 
-export default function NewCard({title, subtitle, dark, id, image, text, demolink, githublink, demo, github, pipe}) {
+export default function NewCard({title, subtitle, date, dark, id, image, text, demolink, githublink, demo, github, pipe}) {
     return (
 
       <div className="Card">
@@ -11,20 +11,24 @@ export default function NewCard({title, subtitle, dark, id, image, text, demolin
               <img id="cardImage" src={image}></img>
             </div>
             <div className="Rtable-cell center Rtable-cell Rtable-cell--2of3">
-              <p className="title">{title}</p>
-              <p className="subtitle">{subtitle}</p>
-              <p className="description">{text}</p>
-              <div className="linkContainer">
-                  <table id="title">
-                      <tr>
-                          <td><a href={githublink} className="links">{github}</a></td>
-                          <td><a href={demolink} className="links">{demo}</a></td>
-                      </tr>
-                  </table>
+              <div style={{paddingLeft: "50px"}}>
+                <div className="card-title-header"> 
+                  <div className="title">{title}</div> 
+                  <div className="date">{date}</div>
+                </div>
+                <p className="subtitle">{subtitle}</p>
+                <p className="description">{text}</p>
+                <div className="linkContainer">
+                    <table id="title">
+                        <tr>
+                            <td><a href={githublink} className="links">{github}</a></td>
+                            <td><a href={demolink} className="links">{demo}</a></td>
+                        </tr>
+                    </table>
+                </div>
               </div>
             </div>
           </div>
-
       </div>
     );
 }

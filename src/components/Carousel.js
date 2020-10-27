@@ -9,10 +9,13 @@ import {
 import './css/carousel.css'
 import banner from './media/banner.jpg'
 import superman from './media/superman.jpg'
+import zuko from './media/zuko-ATLA.png'
 import spiderman from './media/spiderman.jpg'
 import girl from './media/girl.jpg'
 import tiger from './media/tiger.jpg'
 import girl2 from './media/girl2.jpg'
+import ramen2 from './media/ramen-1.jpg'
+import ramen1 from './media/ramen-2.jpg'
 
 
 const items = [
@@ -40,7 +43,23 @@ const items = [
         src: girl2,
         altText: 'Slide 1',
         caption: 'Slide 1'
-    }
+    },
+    {
+      src: zuko,
+      altText: 'Slide 6',
+      caption: 'Slide 6'
+    },
+    {
+      src: ramen1,
+      altText: 'Slide 7',
+      caption: 'Slide 7'
+    },
+    {
+      src: ramen2,
+      altText: 'Slide 8',
+      caption: 'Slide 8'
+    },
+
 ];
 
 class Example extends Component {
