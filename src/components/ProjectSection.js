@@ -85,7 +85,7 @@ export default function ProjectSection({ title, subtitle, dark, id, image}) {
                                 image={rotary}
                                 date="January 2018 - March 2018"
                                 subtitle="(Front-end) JavaScript, HTML, CSS"
-                                text="This project was an opportunity for my team to work closely with the Santa Cruz Sunrse Rotary 
+                                text="This project was an opportunity for my team to work closely with the Santa Cruz Sunrise Rotary 
                                 to completely restructure their website by modernizing its appearance and usability. 
                                 Within this project, I used JavaScript, HTML, and CSS to tailor the details to our client's preferences."
                                 demolink="https://sunriserotary.github.io/index.html"
