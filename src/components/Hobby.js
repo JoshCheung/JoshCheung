@@ -1,10 +1,9 @@
 import React from "react";
 import './css/Section.css'
-import Card from './Card'
 import Carousel from './Carousel';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Hobby({ title, subtitle, dark, id, image}) {
+export default function Hobby({ title, id}) {
     return (
         <div>
             <div>

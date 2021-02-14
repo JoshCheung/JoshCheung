@@ -2,13 +2,11 @@ import React from "react";
 import './css/Section.css'
 import NewCard from './NewCard'
 import rotary from './media/rotary.svg'
-import bean from './media/88beans.png'
 import wbeans from './media/whitebeans.png'
-import beans from './media/beans.png'
 import qvinyl from './media/qvinyl.png'
 import qvinyl2 from './media/Qvinyl2.0.png'
 import budget from './media/budgettracker.PNG'
-export default function ProjectSection({ title, subtitle, dark, id, image}) {
+export default function ProjectSection({ title, id}) {
     return (
         <div>
             <div>

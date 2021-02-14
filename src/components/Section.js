@@ -2,7 +2,7 @@ import React from "react";
 import '.css/Section.css'
 import Card from './Card'
 
-export default function Section({ title, subtitle, dark, id, image,  }) {
+export default function Section({ title, subtitle, id, image}) {
     return (
         <div>
             <div>

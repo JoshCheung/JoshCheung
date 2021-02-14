@@ -1,22 +1,10 @@
 import React from "react";
 import './css/Section.css';
-import Card from './Card';
 import IconSection from './IconSection';
 
 
-export default function ContactSection({ title, subtitle, dark, id, image}) {
-
-    // const ContactForm = () =>
-    //     <form method="POST">
-    //         <div className="container">
-    //             <input type="email"  id="email" name="email" placeholder="Your email" value=""/>
-    //             <br/>
-    //             <textarea name="message" placeholder="Your message" ows="3" ></textarea>
-    //             <br/>
-    //             <input type="submit" value="Send"/>
-    //         </div>
-    //     </form>
-
+export default function ContactSection({ title, id}) {
+    
     return (
         <div>
             <div>

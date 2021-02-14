@@ -1,9 +1,9 @@
-import React, { Component } from "react";
+import React, { } from "react";
 import './css/newCard.css'
 import './css/profile.css'
 import portrait from './media/portrait.png';
 
-export default function Profile({title, subtitle, dark, id, image, text, link}) {
+export default function Profile() {
     return (
       <div className="Card">
           <div className="cards Rtable Rtable--2cols Rtable--collapse">

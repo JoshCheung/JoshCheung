@@ -1,9 +1,8 @@
 import React from "react";
 import './css/Section.css';
-import Card from './Card';
 import Profile from './Profile';
 
-export default function AboutSection({ title, subtitle, dark, id, image}) {
+export default function AboutSection({ title, id}) {
     return (
         <center>
             <div className="section">

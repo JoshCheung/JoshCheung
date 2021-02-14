@@ -4,10 +4,8 @@ import {
   CarouselItem,
   CarouselControl,
   CarouselIndicators,
-  CarouselCaption
 } from 'reactstrap';
 import './css/carousel.css'
-import banner from './media/banner.jpg'
 import superman from './media/superman.jpg'
 import zuko from './media/zuko-ATLA.png'
 import spiderman from './media/spiderman.jpg'

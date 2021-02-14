@@ -90,8 +90,6 @@ export default class Navbar extends Component {
                             About Me
                             </Link>
                         </li>
-
-
                     </ul>
                 </div>
             </nav>

@@ -2,7 +2,7 @@ import React from "react";
 import './css/Section.css'
 import './css/skills.css'
 
-export default function Skills({ title, subtitle, dark, id, image,  }) {
+export default function Skills({ title, id}) {
     return (
         <center>
             <div className="section">

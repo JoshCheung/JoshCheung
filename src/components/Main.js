@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Navbar from "./Navbar";
 import ContactSection from "./ContactSection";
 import AboutSection from "./AboutSection";
 import Timeline from "./Timeline";
@@ -7,14 +6,10 @@ import ProjectSection from "./ProjectSection";
 import Skills from './SkillsSection'
 import Hobby from "./Hobby";
 import Button from './Button';
-import Card from './Card';
 import './css/Main.css';
 import './css/Card.css';
-import profile from './media/profile.jpeg';
-import banner from './media/banner.jpg';
 import backsplash from './media/BackSplash.jpg'
 import profilePic from "./media/Profile.jpg";
-import name from "./media/name.png";
 import name2 from "./media/name2.png";
 
 
@@ -27,15 +22,6 @@ class Main extends Component {
         }
         this.changeState = this.changeState.bind(this);
     }
-
-    // listenScrollEvent = e => {
-    //     if (window.scrollY > 1500) {
-    //         this.setState({color: 'purple'})
-    //     } else {
-    //         this.setState({color: 'white'})
-    //     }
-    // }
-    // style={{background: this.state.color}}
 
     changeState(){
         if(this.state.animationClass === 'test'){

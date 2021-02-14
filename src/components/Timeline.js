@@ -7,7 +7,7 @@ import resnet from './media/ResNet.png'
 import birst from './media/BirstLogo.png'
 import porter from './media/porterswiggle.jpg'
 
-export default function Timeline({ title, subtitle, dark, id, image}) {
+export default function Timeline({ title, id}) {
     return (
         <div>
             <div>

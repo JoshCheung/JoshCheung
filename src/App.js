@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './components/css/Main.css';
 import Main from './components/Main';
-import profile from './components/media/profile.jpeg';
 import Navbar from "./components/Navbar";
 
 import './App.css';

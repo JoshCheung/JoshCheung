@@ -17,9 +17,9 @@
 }
 
 .text-section {
-  text-align: left;
+  text-align: center;
   padding-left: 20px;
-  font-size: large;
+  font-size: 1.9vh;
 }
 
 p {
@@ -31,7 +31,7 @@ p {
 
 @media screen and (max-width: 1200px) {
     .text-section {
-        text-align: left;
+        text-align: center;
         font-size: 100%;
     }
 }

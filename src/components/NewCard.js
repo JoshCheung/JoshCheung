@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React, { } from "react";
 import './css/newCard.css'
 
 
-export default function NewCard({title, subtitle, date, dark, id, image, text, demolink, githublink, demo, github, pipe}) {
+export default function NewCard({title, subtitle, date, image, text, demolink, githublink, demo, github}) {
     return (
 
       <div className="Card">
