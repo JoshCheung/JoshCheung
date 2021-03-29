@@ -79,7 +79,7 @@ export default function ProjectSection({ title, id}) {
                             <NewCard
                                 title="Sunrise Rotary Club"
                                 image={rotary}
-                                date="January 2018 - March 2018"
+                                date="January 2018 — March 2018"
                                 subtitle="(Front-end) JavaScript, HTML, CSS"
                                 text="This project was an opportunity for my team to work closely with the Santa Cruz Sunrise Rotary 
                                 to completely restructure their website by modernizing its appearance and usability. 

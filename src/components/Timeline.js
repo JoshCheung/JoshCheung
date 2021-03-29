@@ -26,7 +26,7 @@ export default function Timeline({ title, id}) {
 
                             <NewCard
                                 title="Development and Operations"
-                                date="October 2019 - Present"
+                                date="October 2019 — Present"
                                 image={birst}
                                 subtitle="Birst: Software Engineering"
                                 text="I am currently working as a DevOps Engineer."
@@ -34,7 +34,7 @@ export default function Timeline({ title, id}) {
 
                             <NewCard
                                 title="Software Engineer"
-                                date="July 2019 - September 2019"
+                                date="July 2019 — September 2019"
                                 image={cisco}
                                 subtitle="Cisco Systems"
                                 text="Six months after I finished my internship, I returned to Cisco where I wrote test scripts that assessed 
@@ -44,7 +44,7 @@ export default function Timeline({ title, id}) {
                             />
                             <NewCard
                                 title="BS Degree in Computer Science"
-                                date="September 2015 - April 2019"
+                                date="September 2015 — April 2019"
                                 image={porter}
                                 subtitle="UC Santa Cruz"
                                 text="During my four years at UC Santa Cruz, I encountered challenging and encouraging professors
@@ -54,7 +54,7 @@ export default function Timeline({ title, id}) {
                             />
                             <NewCard
                                 title="Software Engineering Intern"
-                                date="October 2018 - December 2018"
+                                date="October 2018 — December 2018"
                                 image={cisco2}
                                 subtitle="Cisco Systems"
                                 text="As an intern at Cisco Systems, I worked closely with some brilliant engineers.

@@ -19,7 +19,7 @@ export default function Profile() {
 
                 <p className="text-section">
                   I hope to help society in the best way I can through software. 
-                  My goal In bringing people closer together presents a multitude of obstacles, 
+                  My goal in bringing people closer together presents a multitude of obstacles, 
                   but I hope to bring a better future one bit at a time to our little blue planet. 
 
                 </p>
