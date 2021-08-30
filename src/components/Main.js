@@ -45,7 +45,7 @@ class Main extends Component {
                     <div class = "container1">
                         <img className="banner" src={backsplash}/>
                         <div className="centered">
-                            <p className="texttop">  Hello World, I'm </p>
+                        
                             <img src={name2} className="name" />
                             <Button/>
                         </div>
