@@ -23,13 +23,19 @@ export default function Timeline({ title, id}) {
 
 
                         <div className="section-content" id={id}>
-
+                            
                             <NewCard
                                 title="Development and Operations"
-                                date="October 2019 — Present"
+                                date="October 2019 — August 2021"
                                 image={birst}
-                                subtitle="Birst: Software Engineering"
-                                text="I am currently working as a DevOps Engineer."
+                                subtitle="Birst Inc."
+                                text="I was hired as a Software engineer, but at the peak of the pandemic, 
+                                I was given the opportunity to work as a DevOps engineer and learn about infrastructure. This role gave me the 
+                                tools and knowledge to apply to my own personal projects such as Qvinyl, while also teaching me the inner workings 
+                                of enterprise level pipelines of continuous Integration. DevOps was an extremely demanding position as 
+                                it seemed like there was always a sensitive timeline for new products to be shipped and new technologies to be learned. 
+                                Although I learned a lot from DevOps and after a deep self reflection, I wanted to continue to learn 
+                                about software development rather than infrastructure development."
                             />
 
                             <NewCard

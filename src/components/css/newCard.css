@@ -56,7 +56,7 @@
     display: flex;
     flex-direction: column;
     font-family: "Franklin Gothic medium", sans-serif !important;
-    font-size: large;
+    font-size: 1.8vh;
     padding-left: 20px;
     /* padding-top: 10px; */
     margin: auto;
