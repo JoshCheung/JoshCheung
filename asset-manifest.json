@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7400dce.chunk.css",
-    "main.js": "/static/js/main.2778a3a3.chunk.js",
-    "main.js.map": "/static/js/main.2778a3a3.chunk.js.map",
+    "main.css": "/static/css/main.2985c489.chunk.css",
+    "main.js": "/static/js/main.aa712929.chunk.js",
+    "main.js.map": "/static/js/main.aa712929.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c569c606.js",
     "runtime-main.js.map": "/static/js/runtime-main.c569c606.js.map",
     "static/css/2.1a8ae00d.chunk.css": "/static/css/2.1a8ae00d.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.4738ef32.chunk.js.map": "/static/js/2.4738ef32.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1a8ae00d.chunk.css.map": "/static/css/2.1a8ae00d.chunk.css.map",
-    "static/css/main.e7400dce.chunk.css.map": "/static/css/main.e7400dce.chunk.css.map",
+    "static/css/main.2985c489.chunk.css.map": "/static/css/main.2985c489.chunk.css.map",
     "static/js/2.4738ef32.chunk.js.LICENSE.txt": "/static/js/2.4738ef32.chunk.js.LICENSE.txt",
     "static/media/BackSplash.0e23c0a2.jpg": "/static/media/BackSplash.0e23c0a2.jpg",
     "static/media/BirstLogo.ae9ceb5d.png": "/static/media/BirstLogo.ae9ceb5d.png",
@@ -42,7 +42,7 @@
     "static/js/runtime-main.c569c606.js",
     "static/css/2.1a8ae00d.chunk.css",
     "static/js/2.4738ef32.chunk.js",
-    "static/css/main.e7400dce.chunk.css",
-    "static/js/main.2778a3a3.chunk.js"
+    "static/css/main.2985c489.chunk.css",
+    "static/js/main.aa712929.chunk.js"
   ]
 }
