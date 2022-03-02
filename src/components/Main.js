@@ -67,10 +67,6 @@ class Main extends Component {
                         dark={true}
                         id="projects"
                         />
-                    <Skills
-                        title="What are my Skillsets?"
-                        id="skills"
-                    />
                     <Hobby
                         title=" What do I like to do? "
                         id="hobbies"

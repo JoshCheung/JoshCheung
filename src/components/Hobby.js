@@ -1,6 +1,6 @@
 import React from "react";
 import './css/Section.css'
-import Carousel from './Carousel';
+import Grid from './Grid';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Hobby({ title, id}) {
@@ -17,7 +17,7 @@ export default function Hobby({ title, id}) {
                             <h2 className="color" >{title}</h2>
                         </div>
                         <div className="section-content" id={id}>
-                            <Carousel/>
+                            <Grid/>
                         </div>
                     </div>
                 </center>
