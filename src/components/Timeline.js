@@ -6,6 +6,7 @@ import cisco2 from './media/cisco2.jpg'
 import resnet from './media/ResNet.png'
 import birst from './media/BirstLogo.png'
 import porter from './media/porterswiggle.jpg'
+import babylist from './media/babylist-logo.png'
 
 export default function Timeline({ title, id}) {
     return (
@@ -23,6 +24,14 @@ export default function Timeline({ title, id}) {
 
 
                         <div className="section-content" id={id}>
+
+                            <NewCard
+                                title="Software Engineer"
+                                date="September 2021 — Present"
+                                image={babylist}
+                                subtitle="Babylist"
+                                text="Working as a Software Engineer on the Fulfillment team"
+                            />
                             
                             <NewCard
                                 title="Development and Operations"

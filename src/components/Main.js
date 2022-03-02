@@ -9,7 +9,6 @@ import Button from './Button';
 import './css/Main.css';
 import './css/Card.css';
 import backsplash from './media/BackSplash.jpg'
-import profilePic from "./media/Profile.jpg";
 import name2 from "./media/name2.png";
 
 
@@ -55,7 +54,6 @@ class Main extends Component {
                         title=" Who am I? "
                         dark={true}
                         id="aboutMe"
-                        image={profilePic}
                         />
                     <Timeline
                         title=" What have I been up to? "
