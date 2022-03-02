@@ -20,7 +20,7 @@ export default function Profile() {
                 <p className="text-section">
                   I hope to help society in the best way I can through software. 
                   My goal in bringing people closer together presents a multitude of obstacles, 
-                  but I hope to bring a better future one bit at a time to our little blue planet. 
+                  but I hope to bring a better future 1-bit at a time to our little blue planet. 
 
                 </p>
                 <p className="text-section"> 
