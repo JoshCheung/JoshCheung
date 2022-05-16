@@ -81,7 +81,7 @@
 .main {
     width: 100%;
     background: #f7f3ed;
-    overflow-x: none 
+    overflow-x: hidden;
 }
 
 .banner {

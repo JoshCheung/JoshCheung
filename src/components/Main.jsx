@@ -5,6 +5,7 @@ import Projects from './Projects'
 import Banner from './Banner';
 import Hobbies from './Hobbies';
 import Contact from './Contact';
+import '../css/main.css';
 const Main = () => {
     return (  
         <div className="main">
