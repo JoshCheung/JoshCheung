@@ -1,0 +1,89 @@
+@media screen and (max-width: 1024px) {
+    .horizontal-line {
+        width: 100% !important;
+    }
+
+    .card {
+        width: 90% !important;
+    }
+
+    .icon {
+        height: 100px !important;
+    }
+
+    .contacts-container {
+        width: 100% !important;
+    }
+}
+
+.horizontal-line {
+    border: 1px solid black;
+    width: 60%;
+}
+
+.title {
+    margin-top: 8vh;
+    font-size: 2em;
+    text-align: center
+}
+
+.section {
+    display: block;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    position: static;
+    left: 0;
+    right: 0;
+    color: black;
+}
+
+.contacts-container {
+    width: 70%;
+    margin: auto;
+}
+
+.icon-container {
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icon {
+    height: 150px;
+}
+
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+    background: #323639;
+}
+  
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 60%;
+    margin: auto;
+    transform: translate(-50%, -50%);
+}
+
+.textBottom {
+    color: white;
+    font-size: 5vw;
+}
+
+
+.name {
+    width: 90%;
+}
+
+.main {
+    width: 100%;
+    background: #f7f3ed;
+    overflow-x: none 
+}
+
+.banner {
+    background: #323639;
+}

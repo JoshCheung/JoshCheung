@@ -1,0 +1,25 @@
+.Button {
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 50px;
+    margin: auto;
+    background: transparent;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.Button:hover {
+    color: #004eb5;
+}
+
+a {
+    color: white;
+    padding: 5px;
+    font-family: "Franklin Gothic medium", sans-serif !important;
+}
+
+a:hover {
+    color: #197ac4;
+    text-decoration: none;
+}

@@ -1,0 +1,19 @@
+.hobbies-container {
+    margin: auto;
+    width: 70%;
+}
+
+@media screen and (max-width: 1024px) {
+    .hobbies-container{
+        width: 100% !important;
+    }
+
+    .card {
+        width: 90% !important;
+    }
+
+    #image-list {
+        padding: 20px;
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+}
