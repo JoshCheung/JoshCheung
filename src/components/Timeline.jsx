@@ -1,10 +1,10 @@
 import React from 'react';
 import '../css/company-card.css'
 import CompanyCard from './CompanyCard';
-import babylist from '../media/timeline-images/babylist-logo.png'
+import babylist from '../media/timeline-images/babylist-pic.jpg'
 import birst from '../media/timeline-images/birst-logo.png'
 import cisco from '../media/timeline-images/cisco-logo.png'
-import ucsc_swiggle from '../media/timeline-images/ucsc-swiggle.jpg'
+import grad_pic from '../media/timeline-images/grad-pic.jpeg'
 import cisco_internship from '../media/timeline-images/cisco-internship.jpg'
 import resnet from '../media/timeline-images/resnet-logo.png'
 import '../css/main.css';
@@ -38,7 +38,7 @@ const Timeline = () => {
             subtitle: 'September 2015 — April 2019',
             position: 'BS Degree in Computer Science',
             summary: 'During my four years at UC Santa Cruz, I encountered challenging and encouraging professors who have expanded my knowledge academically and creatively. I was exposed to a variety of programming languages and working environments, which helped me gain a greater understanding of the developmental process of applications. Computer science truly commands my respect in its versatility and advancements.',
-            image: ucsc_swiggle
+            image: grad_pic
         },
         { 
             title: 'Cisco',
