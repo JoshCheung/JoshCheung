@@ -1,0 +1,11 @@
+.banner {
+    /* width: 100%; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    background-color: black;
+    opacity: 0.7;
+}
+
+
