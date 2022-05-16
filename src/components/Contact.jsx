@@ -12,11 +12,15 @@ const Contact = ({ title, id}) => {
             <h2 className="text"> Message me via email at JTCheung97@gmail.com! </h2>
             <h2 className="text"> Connect with me here too! </h2>
             <div className="icon-container">
-                <div className="icon" href="https://github.com/JoshCheung">
-                    <img className="icon" src={github} style={{background: "black", borderRadius: 360}}/>
+                <div className="icon" >
+                    <a href="https://github.com/JoshCheung">
+                        <img className="icon" src={github} style={{background: "black", borderRadius: 360}}/>
+                    </a> 
                 </div>
-                <div className="icon" href="https://www.linkedin.com/in/joshua-cheung/">
-                    <img className="icon" src={linkedin} style={{background: "black", borderRadius: 360}}/>
+                <div className="icon">
+                    <a href="https://www.linkedin.com/in/joshua-cheung/">
+                        <img className="icon" src={linkedin} style={{background: "black", borderRadius: 360}}/>
+                    </a>
                 </div>
             </div>
         </div>
