@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7e5a346ce5e6be25797d",
+    "revision": "d213c2139d32608f7ce6",
     "url": "/static/css/main.825cb3a5.chunk.css"
   },
   {
-    "revision": "7e5a346ce5e6be25797d",
-    "url": "/static/js/main.7e5a346c.chunk.js"
+    "revision": "d213c2139d32608f7ce6",
+    "url": "/static/js/main.d213c213.chunk.js"
   },
   {
     "revision": "8fdf2532cfae939d1771",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/static/media/san_francisco.5efb997d.jpg"
   },
   {
-    "revision": "aa239f56c88cdce057c586962d9567fd",
-    "url": "/static/media/JoshCheung-Resume-2021.aa239f56.pdf"
+    "revision": "31a3ed2f5e67f2d0a96bd27c73f43521",
+    "url": "/static/media/Resume-2023.31a3ed2f.pdf"
   },
   {
     "revision": "0985ea60e96f478af6d3891d406c5e51",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/static/media/linkedin.ec84ac2c.png"
   },
   {
-    "revision": "4dc999f67c25b0108591e5d97128696c",
+    "revision": "ce86d64751549bf9c647fb8f8f09f12d",
     "url": "/index.html"
   }
 ];
