@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/company-card.css'
 import CompanyCard from './CompanyCard';
-import babylist from '../media/timeline-images/babylist-pic.jpg'
+import babylist from '../media/timeline-images/babylist-logo.png'
 import birst from '../media/timeline-images/birst-logo.png'
 import cisco from '../media/timeline-images/cisco-logo.png'
 import grad_pic from '../media/timeline-images/grad-pic.jpeg'
@@ -14,9 +14,9 @@ const Timeline = () => {
     const timeLine = [
         { 
             title: 'Babylist',
-            subtitle: 'September 2021 — Present',
+            subtitle: 'September 2021 — January 2023',
             position: 'Software Engineer',
-            summary: 'Working as a Software Engineer on the Fulfillment team',
+            summary: `Babylist provided me with an opportunity for personal and professional growth in the software engineering role. As a member of the backend team, I was able to work on diverse projects including the development of internal tools to revamping the order routing system. I collabtorated with highly skilled engineers and gained even more insight into the software building process and enjoyed the independence to work on projects autonomously.\nAlthough, my journey with Babylist was cut short due to layoffs, it was truly a great experience to aquire the skills and knowledge which have contributed to my overall growth as a software engineer.`,
             image: babylist
         },
         { 
@@ -28,8 +28,8 @@ const Timeline = () => {
         },
         { 
             title: 'Cisco',
-            subtitle: 'October 2019 — August 2021',
-            position: 'Development and Operations',
+            subtitle: 'July 2019 — October 2019',
+            position: 'Software Engineer',
             summary: 'Six months after I finished my internship, I returned to Cisco where I wrote test scripts that assessed the different features of Webex and tested the various versions of the application with the automation team. While working on a refactoring project, I was able to learn about the system architecture behind the scenes. I sat in on intricate conversations and implemented high-level API calls for different test cases for Webex application.',
             image: cisco
         },
@@ -44,7 +44,7 @@ const Timeline = () => {
             title: 'Cisco',
             subtitle: 'October 2018 — December 2018',
             position: 'Software Engineering Intern',
-            summary: 'During my four years at UC Santa Cruz, I encountered challenging and encouraging professors who have expanded my knowledge academically and creatively. I was exposed to a variety of programming languages and working environments, which helped me gain a greater understanding of the developmental process of applications. Computer science truly commands my respect in its versatility and advancements.',
+            summary: 'Working as an intern at Cisco Systems, I got to work closely with brilliant and fun engineers. For the three months working there, I was given many different projects such as creating playbooks on Ansible, unit testing different call functions on Webex, and working with MySQL databases. Here, I gained confidence in my abilities to write code, have high-level discussions in meetings, and overall as a software engineer. I hope to continue to grow with more experience and to meet great engineers throughout my career.',
             image: cisco_internship
         },
         { 

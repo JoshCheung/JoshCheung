@@ -41,43 +41,43 @@ export default function StandardImageList() {
 
 const itemData = [
   {
-    img: climbing,
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173172/JoshCheung/climbing_axzwrn.png",
     title: 'climbing',
   },
   {
-    img: girl,
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173171/JoshCheung/girl_evr9mr.jpg",
     title: 'girl',
   },
   {
-    img: girl2,
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173170/JoshCheung/girl2_mxswkm.jpg",
     title: 'girl2',
   },
   {
-    img: hiking ,
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685176328/golf_j9xwhk.jpg",
+    title: 'golf'
+  },
+  {
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173171/JoshCheung/hiking_vcuvj3.jpg",
     title: 'hiking',
   },
   {
-    img: latte_art,
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173499/latte_art_cavf6a.jpg",
     title: 'coffee',
   },
   {
-    img: ramen,
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173172/JoshCheung/ramen_ehhuwd.jpg",
     title: 'ramen',
   },
   {
-    img: spiderman,
-    title: 'marvel',
-  },
-  {
-    img: tiger,
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173170/JoshCheung/tiger_omz7ue.jpg",
     title: 'tiger',
   },
   {
-    img: zuko,
-    title: 'ATLA',
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173173/JoshCheung/spiderman_ylx0bz.jpg",
+    title: 'marvel',
   },
   {
-    img: spartan,
-    title: 'halo'
-  }
+    img: "https://res.cloudinary.com/dufsumsmb/image/upload/v1685173172/JoshCheung/zuko-ATLA_yk3ngq.png",
+    title: 'ATLA',
+  },
 ];
