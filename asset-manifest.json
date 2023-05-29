@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a96ef146.css",
+    "main.css": "/static/css/main.41d53299.css",
     "main.js": "/static/js/main.857b462b.js",
     "static/media/latte-art.png": "/static/media/latte-art.f32a19be4ed09a2db32e.png",
     "static/media/ramen.jpg": "/static/media/ramen.c4892c34d1b58d6159d7.jpg",
@@ -28,11 +28,11 @@
     "static/media/rotary.png": "/static/media/rotary.4df2d540958ea9ab9fdf.png",
     "static/media/linkedin.png": "/static/media/linkedin.bb2512fb3f38ebb7d841.png",
     "index.html": "/index.html",
-    "main.a96ef146.css.map": "/static/css/main.a96ef146.css.map",
+    "main.41d53299.css.map": "/static/css/main.41d53299.css.map",
     "main.857b462b.js.map": "/static/js/main.857b462b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a96ef146.css",
+    "static/css/main.41d53299.css",
     "static/js/main.857b462b.js"
   ]
 }
