@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Pdf from '../media/profile-images//Resume-2023.pdf';
+import Pdf from '../media/profile-images/Resume-23.pdf';
 import '../css/button.css'
 
 class Button extends Component {
