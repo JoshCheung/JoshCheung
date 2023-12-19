@@ -14,7 +14,7 @@ const Timeline = () => {
     const timeLine = [
         { 
             title: 'Babylist',
-            subtitle: 'September 2021 — January 2023',
+            subtitle: 'September 2021 — Feburary 2023',
             position: 'Software Engineer',
             summary: `Babylist provided me with an opportunity for personal and professional growth in the software engineering role. As a member of the backend team, I was able to work on diverse projects including the development of internal tools to revamping the order routing system. I collabtorated with highly skilled engineers and gained even more insight into the software building process and enjoyed the independence to work on projects autonomously.\nAlthough, my journey with Babylist was cut short due to layoffs, it was truly a great experience to aquire the skills and knowledge which have contributed to my overall growth as a software engineer.`,
             image: babylist
